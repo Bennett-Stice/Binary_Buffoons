@@ -27,5 +27,5 @@ print ("Gray Code 1 Bit: ", grayCodeList[0])
 endBitNum=3;
 for i in range (1,endBitNum):
     grayCodeList.append(transition(grayCodeList[i-1]))
-    print ("Gray Code " + str(i) + " Bit: ", grayCodeList[i])
+    print ("Gray Code " + str(i+1) + " Bit: ", grayCodeList[i])
 
