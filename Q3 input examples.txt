@@ -1,0 +1,57 @@
+Sure, here are ten sets of inputs to test for both bipartite and non-bipartite graphs:
+
+**Bipartite Graphs:**
+
+1. **Bipartite Example 1**:
+   - Number of nodes: 4
+   - Number of edges: 4
+   - Edge list: (0, 1), (1, 2), (2, 3), (3, 0)
+
+2. **Bipartite Example 2**:
+   - Number of nodes: 5
+   - Number of edges: 4
+   - Edge list: (0, 1), (1, 2), (2, 3), (3, 4)
+
+3. **Bipartite Example 3**:
+   - Number of nodes: 4
+   - Number of edges: 3
+   - Edge list: (0, 1), (1, 2), (2, 0)
+
+4. **Bipartite Example 4**:
+   - Number of nodes: 6
+   - Number of edges: 5
+   - Edge list: (0, 1), (1, 2), (2, 3), (3, 4), (4, 5)
+
+5. **Bipartite Example 5**:
+   - Number of nodes: 5
+   - Number of edges: 6
+   - Edge list: (0, 1), (0, 2), (0, 3), (0, 4), (1, 3), (2, 4)
+
+**Non-Bipartite Graphs:**
+
+6. **Non-Bipartite Example 1**:
+   - Number of nodes: 4
+   - Number of edges: 3
+   - Edge list: (0, 1), (1, 2), (2, 3), (3, 0)
+
+7. **Non-Bipartite Example 2**:
+   - Number of nodes: 4
+   - Number of edges: 4
+   - Edge list: (0, 1), (1, 2), (2, 3), (3, 0), (0, 2)
+
+8. **Non-Bipartite Example 3**:
+   - Number of nodes: 3
+   - Number of edges: 3
+   - Edge list: (0, 1), (1, 2), (2, 0)
+
+9. **Non-Bipartite Example 4**:
+   - Number of nodes: 5
+   - Number of edges: 5
+   - Edge list: (0, 1), (1, 2), (2, 3), (3, 4), (4, 0)
+
+10. **Non-Bipartite Example 5**:
+   - Number of nodes: 4
+   - Number of edges: 4
+   - Edge list: (0, 1), (1, 2), (2, 0), (0, 3)
+
+These input sets provide a mix of graphs that are both bipartite and non-bipartite, allowing for a balanced testing of the code.
